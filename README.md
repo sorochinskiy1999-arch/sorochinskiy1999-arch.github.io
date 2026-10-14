@@ -12,6 +12,7 @@
 
 
 Moscowsights 2026
+
    <!--LiveInternet counter--><a href="https://www.liveinternet.ru/click"
 target="_blank"><img id="licnt43BD" width="88" height="31" style="border:0" 
 title="LiveInternet: показано число просмотров и посетителей за 24 часа"
